@@ -47,11 +47,6 @@ I love building full-stack web applications using modern tools and frameworks.
 
 ---
 
-## 🖼️ Just for Fun (Optional GIF)
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
----
 
 ## 💡 Fun Fact
 
