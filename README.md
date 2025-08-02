@@ -12,7 +12,7 @@ I love building full-stack web applications using modern tools and frameworks.
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaushal-nepal-632786272/)
 [![Gmail](https://img.shields.io/badge/Email-kaushalnepal12@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kaushalnepal12@gmail.com)
 
 ---
