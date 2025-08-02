@@ -6,7 +6,7 @@ I love building full-stack web applications using modern tools and frameworks.
 🎓 BSc (Hons) Computing Student at The British College  
 💻 Full-stack dev in progress | Django | React | MongoDB  
 🚀 Currently working on a Hotel Management System  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaushal-nepal-632786272/)
 
 ---
 
